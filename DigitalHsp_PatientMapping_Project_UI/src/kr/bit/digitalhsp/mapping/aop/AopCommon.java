@@ -74,6 +74,7 @@ public class AopCommon {
 			returnStr = joinPoint.proceed();
 			LOGGER.info(
 					""," 정상 연결입니다.","","");
+			System.out.println("aa");
 			
 		} catch (ErrorException e) {
 			// TODO Auto-generated catch block

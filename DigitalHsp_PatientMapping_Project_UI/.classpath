@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="library/" kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Referenced library"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/aspectjlib-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/aspectjweaver-1.6.11.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/com.ibm.icu_4.4.2.v20110823.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-configuration-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-digester-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/digitalhsp_Common.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/junit_2.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/lguplus-phr-ver2-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.core.commands_3.6.0.I20110111-0800.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.core.runtime_3.7.0.v20110110.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.equinox.common_3.6.0.v20110523.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.equinox.registry_3.5.101.R37x_v20110810-1611.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.jface.text_3.7.2.v20111213-1208.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.jface_3.7.0.v20110928-1505.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.osgi_3.7.2.v20120110-1415.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.swt.win32.win32.x86_3.7.2.v3740f.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.text_3.5.101.v20110928-1504.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.ui.forms_3.5.101.v20111011-1919.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.eclipse.ui.workbench_3.7.1.v20120104-1859.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/org.hamcrest.core_1.1.0.v20090501071000_2.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-aop-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-asm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-beans-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-context-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-context-support-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-core-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-expression-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-jdbc-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-modules-jakarta-commons-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-modules-validation-0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-orm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-oxm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Developer/JAVA/Project/DIGITALHOSPITAL/lib/standard-1.1.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Mapping_Service"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
